@@ -10,3 +10,9 @@ body{
 .box-hight{
     height: 250px;
 }
+.my-images-filter{
+    filter: brightness(50%);
+}
+.hight{
+    height: 55px;
+}
